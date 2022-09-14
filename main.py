@@ -3,7 +3,7 @@ from pycoingecko import CoinGeckoAPI
 cg = CoinGeckoAPI()
 
 
-API_KEY = ''
+API_KEY = ''    #paste your API key here
 bot = telebot.TeleBot(API_KEY)
 
 
